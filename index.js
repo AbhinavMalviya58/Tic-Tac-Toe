@@ -66,4 +66,3 @@ reset.addEventListener('click', ()=>{
     document.querySelector('.imgbox').getElementsByTagName('img')[0].style.width = "0px"
     gamrover.pause();
 })
-
